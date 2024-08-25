@@ -1,7 +1,7 @@
 [
    {
        "name": "Spartan Rage",
-       "uniques": ["[+15]% Strength bonus [{Military} {Land}] unit>"],
+       "uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles"],
    },
    {
        "name": "Agoge",
