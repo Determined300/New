@@ -21,7 +21,7 @@
 		"uniqueTo": "Sparta",
 		"replaces": "Horseman",
 		"movement": 5,
-		"strength": 16
+		"strength": 15
 		"cost": 63,
 		"requiredTech": "Horseback Riding",
 	        "obsoleteTech": "Chivalry",
@@ -29,7 +29,7 @@
 		"hurryCostModifier": 35,
 		"requiredResource": "Horses",
 		"promotions": ["Great Generals I"],
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "[-18]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "[-20]% Strength <vs cities> <when attacking>"],
 		"attackSound": "horse"
 	},
 	{	
@@ -39,7 +39,7 @@
 		"replaces": "Great General",
 		"movement": 5,
 		"promotions": ["Spartan Rage"],
-		"uniques": ["Damage is ignored when determining unit Strength <for [All] units>", "[+15]% Strength bonus for [Military] units within [2] tiles", "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+		"uniques": ["[+15]% Strength bonus for [Military] units within [2] tiles", "Can instantly construct a [Citadel] improvement <by consuming this unit>",
 			    "Empire enters a [8]-turn Golden Age <by consuming this unit>", "Can be earned through combat",
 			    "Great Person - [War]",
 			    "Unbuildable",
