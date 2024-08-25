@@ -30,7 +30,7 @@
 		"outerColor": [90,20,65],
 		"innerColor": [205,200,25],
 		"favouredReligion": "Judaism",
-		"uniqueName": "The 300 Spartans",
+		"uniqueName": "Agiad Dynasty",
 		"uniques": ["[+15]% Strength <for [Hoplite] units> <when defending>", "[+50]% Production when constructing [Military] units [in capital]", "[+1 Food] from every [Farm]", "[+4 Culture] per [1] social policies adopted",  "All newly-trained [Hoplite] units [in capital] receive the [Agoge] promotion"],
 		"cities": ["Sparta","Sellasia","Pellena","Belbina","Geronthrai","Gytheion","Las",
 			   "Oios","Eua","Aigys","Aithaia","Thouria","Pharai","Kromnos","Tyrea","Anthana","Prasiai",
