@@ -6,7 +6,7 @@
 		"replaces": "Spearman",
 		"movement": 2,
 		"strength": 15,
-		"cost": 60,
+		"cost": 57,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
