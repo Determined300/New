@@ -10,7 +10,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"hurryCostModifier": 35,
+		"hurryCostModifier": 20,
 		"promotions": ["Shock I"],
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can build [Fort] improvements on tiles", "[+100]% to Flank Attack bonuses", "[+10]% Strength <when adjacent to a [Hoplite] unit>"],
 		"attackSound": "metalhit"
@@ -26,9 +26,11 @@
 		"requiredTech": "Horseback Riding",
 	        "obsoleteTech": "Chivalry",
 		"upgradesTo": "Knight",
+		"hurryCostModifier": 35,
 		"requiredResource": "Horses",
 		"promotions": ["Great Generals I"],
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "[-18]% Strength <vs cities> <when attacking>"],
+		"attackSound": "horse"
 	},
 	{	
 		"name": "Paidonomos",
@@ -42,14 +44,5 @@
 			    "Great Person - [War]",
 			    "Unbuildable",
 			    "Uncapturable"],
-
-
-
-
-
-
-
-
-
-	}
+	},
 ]
